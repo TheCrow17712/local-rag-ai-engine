@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.idea/
+.cache/
+*.pyc
+# its telling git to only upload the light code not the massive machine files
